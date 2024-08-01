@@ -7,3 +7,5 @@ My custom adlist for pihole
 * Login to your pihole admin
 * Go to `adlists`
 * Notice the `add new adlist`
+  * Address: `https://raw.githubusercontent.com/SegersIan/pihole-adlist-custom/main/hosts`
+* Click `Add`
